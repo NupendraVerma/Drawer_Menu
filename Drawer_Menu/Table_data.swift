@@ -22,5 +22,4 @@ class Table_data: UITableViewCell {
 
         // Configure the view for the selected state
     }
-
 }
